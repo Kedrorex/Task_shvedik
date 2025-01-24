@@ -1,0 +1,15 @@
+C:\Users\Vlad\OneDrive\Desktop\Task_C#\Task_shvedik\bin\Debug\net8.0\Task_shvedik.exe
+C:\Users\Vlad\OneDrive\Desktop\Task_C#\Task_shvedik\bin\Debug\net8.0\Task_shvedik.deps.json
+C:\Users\Vlad\OneDrive\Desktop\Task_C#\Task_shvedik\bin\Debug\net8.0\Task_shvedik.runtimeconfig.json
+C:\Users\Vlad\OneDrive\Desktop\Task_C#\Task_shvedik\bin\Debug\net8.0\Task_shvedik.dll
+C:\Users\Vlad\OneDrive\Desktop\Task_C#\Task_shvedik\bin\Debug\net8.0\Task_shvedik.pdb
+C:\Users\Vlad\OneDrive\Desktop\Task_C#\Task_shvedik\obj\Debug\net8.0\Task_shvedik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\OneDrive\Desktop\Task_C#\Task_shvedik\obj\Debug\net8.0\Task_shvedik.AssemblyInfoInputs.cache
+C:\Users\Vlad\OneDrive\Desktop\Task_C#\Task_shvedik\obj\Debug\net8.0\Task_shvedik.AssemblyInfo.cs
+C:\Users\Vlad\OneDrive\Desktop\Task_C#\Task_shvedik\obj\Debug\net8.0\Task_shvedik.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\OneDrive\Desktop\Task_C#\Task_shvedik\obj\Debug\net8.0\Task_shvedik.sourcelink.json
+C:\Users\Vlad\OneDrive\Desktop\Task_C#\Task_shvedik\obj\Debug\net8.0\Task_shvedik.dll
+C:\Users\Vlad\OneDrive\Desktop\Task_C#\Task_shvedik\obj\Debug\net8.0\refint\Task_shvedik.dll
+C:\Users\Vlad\OneDrive\Desktop\Task_C#\Task_shvedik\obj\Debug\net8.0\Task_shvedik.pdb
+C:\Users\Vlad\OneDrive\Desktop\Task_C#\Task_shvedik\obj\Debug\net8.0\Task_shvedik.genruntimeconfig.cache
+C:\Users\Vlad\OneDrive\Desktop\Task_C#\Task_shvedik\obj\Debug\net8.0\ref\Task_shvedik.dll
